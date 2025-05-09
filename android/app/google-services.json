@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "346392919126",
+    "project_id": "examenflutterlogin",
+    "storage_bucket": "examenflutterlogin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346392919126:android:611ea43cac9ac79a148ff7",
+        "android_client_info": {
+          "package_name": "com.example.examen_computacion_movil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLDpwejyOSsyAcngPuvIu8ZrBN_foCmu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346392919126:android:a0f74928bf77653b148ff7",
+        "android_client_info": {
+          "package_name": "examen_.computacion3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLDpwejyOSsyAcngPuvIu8ZrBN_foCmu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
