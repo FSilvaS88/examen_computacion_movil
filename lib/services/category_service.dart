@@ -46,15 +46,11 @@ class CategoryService {
     }
   }
 
-  /// Editar categoría (no implementado en backend actual)
   Future<void> editCategory(CategoryModel category) async {
     print('⚠️ Esta función aún no está implementada en el backend.');
-    // Aquí puedes agregar lógica si luego activamos el endpoint de edición
   }
 
-  /// Eliminar categoría (no implementado en backend actual)
   Future<void> deleteCategory(int id) async {
     print('⚠️ Esta función aún no está implementada en el backend.');
-    // Aquí puedes agregar lógica si luego activamos el endpoint de eliminación
   }
 }

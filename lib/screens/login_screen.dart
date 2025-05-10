@@ -40,7 +40,7 @@ class _LoginScreenState extends State<LoginScreen> {
       appBar: AppBar(
         title: Text('Inicia Sesión'),
         centerTitle: true,
-        backgroundColor: themeColor.shade700, // ✅ Color seguro
+        backgroundColor: themeColor.shade700,
       ),
       body: Center(
         child: SingleChildScrollView(
