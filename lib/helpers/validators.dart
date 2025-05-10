@@ -4,7 +4,7 @@ class Validators {
     if (value == null || value.isEmpty) {
       return 'El email es obligatorio';
     }
-    // Expresión regular básica para validar email
+    // Expresión para validar email
     final emailRegex = RegExp(r'^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$');
     if (!emailRegex.hasMatch(value)) {
       return 'Ingrese un email válido';

@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 class ApiConstants {
-  static const String baseUrl = "http://10.109.12.39:8000/api/";
+  static const String baseUrl = "http://10.0.2.2:8000/api/";
   static const String user = 'test';
   static const String pass = 'test2023';
 

@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import '../models/category.dart';
 
 class CategoryService {
-  final String _baseUrl = "http://10.109.12.39:8000/api/";
+  final String _baseUrl = "http://10.0.2.2:8000/api/";
 
   /// Obtener todas las categorías
   Future<List<CategoryModel>> fetchCategories() async {
